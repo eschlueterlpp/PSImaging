@@ -1,3 +1,6 @@
+## Broken Module
+I forked this module to play with it and see if I can get it working. It seems that the original developer stopped developing it.
+
 ## PSImaging
 PowerShell module that provides tools for automating document image management tasks.
 
